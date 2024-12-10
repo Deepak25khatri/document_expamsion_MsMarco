@@ -16,7 +16,6 @@ Our experiments leverage techniques from the [doc2query](https://github.com/nyu-
 | T5 + BM25 + RM3      | 21.5   |
 | T5 + BM25 + BERT(Reranking)   | 37.5   |
 
-![Results Overview](path/to/image.png)  <!-- Please adjust the path to where your image is hosted -->
 
 ## Dataset and Resources
 
